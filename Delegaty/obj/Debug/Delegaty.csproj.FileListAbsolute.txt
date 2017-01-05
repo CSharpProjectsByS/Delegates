@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\bin\Debug\Delegaty.exe.config
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\bin\Debug\Delegaty.exe
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\bin\Debug\Delegaty.pdb
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.SortTypeGroupBox.resources
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.Properties.Resources.resources
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.exe
+D:\Programowanie\VisualProjects\Delegaty\Delegaty\obj\Debug\Delegaty.pdb
